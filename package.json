@@ -1,0 +1,22 @@
+{
+  "name": "api-provisioning",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "@azure/identity": "^4.5.0",
+    "@azure/storage-blob": "^12.26.0",
+    "@fastify/busboy": "^3.1.0",
+    "axios": "^1.7.9",
+    "busboy": "^1.6.0",
+    "dotenv": "^16.4.7",
+    "email-service": "^1.1.4",
+    "mime-types": "^2.1.35",
+    "sequelize": "^6.37.5",
+    "tedious": "^18.6.1"
+  }
+}

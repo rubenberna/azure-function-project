@@ -1,0 +1,4 @@
+export const DATA_ENGINEER_TYPE = {
+  ID: 'ID',
+  DATA_ENGINEER: 'DATA_ENGINEER'
+};
